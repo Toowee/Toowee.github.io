@@ -1,0 +1,50 @@
+body{
+    background: rgb(0, 251, 255);
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-body: 0px;
+}
+h2{
+    font-family: economica;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+ul{
+    padding: 10px;
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    font-size: 25px;
+    border: black;
+}
+header{
+    text-align: center;
+    background: url("images/Sp.jpg");
+    background-size: cover;
+    padding: 10px 0px 0px 0px;
+    color: rgb(255, 255, 255);
+}
+h1{
+    font-size: 45px;
+}
+.header-pic{
+    margin: 10px 0px 0px 0px;
+}
+a{
+    color: #FFFFFF;
+}
+p{
+    color: #7F00FF;
+    text-align: center;
+    font-size: 30px;
+
+img{
+    text-align: center;
+}
+button{
+    background-color: red;
+}
